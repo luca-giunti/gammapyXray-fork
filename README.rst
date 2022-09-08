@@ -31,10 +31,6 @@ To check that the installation has succeeded and start using the package, naviga
   cd gammapyXray-main
   jupyter notebook example_nb.ipynb 
   
-Code description
-+++++++++++++++++++++++++++++++++++++++++++++
-TBD
-
 Citing
 +++++++++++++++++++++++++++++++++++++++++++++
 
